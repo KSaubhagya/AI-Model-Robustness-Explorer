@@ -1,6 +1,6 @@
 # AI-Model-Robustness-Explorer
 
-A web UI (React) where users can:
+A web UI where users can:
 
 Upload model predictions (CSV / JSON) and ground-truth labels (CSV / JSON)
 
