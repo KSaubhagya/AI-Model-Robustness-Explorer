@@ -10,4 +10,4 @@ Choose contextual transformations (noise, brightness, blur, domain shift, advers
 
 Run robustness experiments (apply transforms, evaluate the model or evaluation metrics)
 
-Visualize metrics: confusion matrix, accuracy heatmap, calibration curves, robustness curves, per-class breakdown, sample browser
+Visualize metrics: confusion matrix, accuracy heatmap, calibration curves, robustness curves, per-class breakdown, sample browser  
